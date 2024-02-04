@@ -9,3 +9,6 @@ dataset/
 
 # Ignore wildfire_data folder
 wildfire_data/
+
+# Ignore .ipynb_checkpoints folder
+.ipynb_checkpoints/
