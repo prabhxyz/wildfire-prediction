@@ -1,6 +1,5 @@
 import re
-from typing import Dict, List, Optional, Text, Tuple
-import tensorflow as tf
+from typing import Dict, List, Text
 from process_input import *
 
 """Constants for the data reader."""

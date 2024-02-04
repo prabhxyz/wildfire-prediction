@@ -1,12 +1,7 @@
 import joblib
-import re
-from typing import Dict, List, Optional, Text, Tuple
 import matplotlib.pyplot as plt
 from matplotlib import colors
-import numpy as np
-import tensorflow as tf
 from dataset_reader import *
-from process_input import *
 from process_arrays import *
 
 file_pattern = 'wildfire_data/next_day_wildfire_spread_train*'
