@@ -12,3 +12,6 @@ wildfire_data/
 
 # Ignore .ipynb_checkpoints folder
 .ipynb_checkpoints/
+
+# Ignore _pycache_ folder
+_pycache_/
