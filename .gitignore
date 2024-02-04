@@ -1,0 +1,11 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore JetBrains IDE folder
+.idea/
+
+# Ignore dataset folder
+dataset/
+
+# Ignore wildfire_data folder
+wildfire_data/
